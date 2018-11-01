@@ -16,6 +16,7 @@ public class MySample1 {
      */
     public static void main(String[] args) {
         System.out.print("Hello World");
+        System.out.print("Hello World");
         // TODO code application logic here
     }
     
